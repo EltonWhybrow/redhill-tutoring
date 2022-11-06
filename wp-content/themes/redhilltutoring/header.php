@@ -16,7 +16,6 @@
         <?php get_template_part('templates/partials/navburger-main'); ?>
 
         <a href="/" class="inline-block py-3 w-72 px-8">
-
             <!-- <img src="/resources/img/pages/logos/redhill-tuts-logo.svg" class="hidden md:block main-logo" alt="Redhill Tutoring"> -->
             <img src="/resources/img/pages/logos/redhill-tuts-logo.png" class="main-logo" alt="Redhill Tutoring">
         </a>
