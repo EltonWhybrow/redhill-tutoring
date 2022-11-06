@@ -34,6 +34,7 @@ body {
 
 // Example hide input for certain days HACK
 // Will need to change choice to correct index
+/* purgecss start ignore */
 #wpforms-560-field_9 {
 	.choice-5,
 	.choice-9,
@@ -56,4 +57,4 @@ body {
 		}
 	}
 }
-/* purgecss start ignore */
+/* purgecss end ignore */
