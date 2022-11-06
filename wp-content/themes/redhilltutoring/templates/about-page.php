@@ -50,7 +50,7 @@ get_header(); ?>
 					<p>
 						Hi, I'm Bethany and my career working with children has spanned <span class="font-semibold">over 25 years</span>. After starting out as a nursery nurse in 1997, my first job was the role of Deputy Playleader, working with children with additional needs and their siblings within an integrated setting. Alongside this work I became a Children's Play Coordinator for Sutton Mencap's Children's Services. The love and passion for both jobs prompted me to further my studies, and in 1999, I gained a <span class="font-semibold">BTEC qualification in Special Educational Needs</span>.</p>
 					<p>
-						It became very clear from working in these settings, that teaching was what I really wanted to do. Already having such a great foundation working with children and their families, I received a 2:1 for my degree: <span class="font-semibold">BA HONS in Education with English specialism</span>, at the University of Roehampton, in 2004.
+						It became very clear from working in these settings, that teaching was what I really wanted to do. Already having such a great foundation working with children and their families, I received an upper class division, <span class="font-semibold">BA HONS in Education with English specialism</span>, at the University of Roehampton, in 2004.
 
 					</p>
 					<div class="brand-swoosh object-cover w-full md:w-96 md:float-right my-5 md:m-5">
