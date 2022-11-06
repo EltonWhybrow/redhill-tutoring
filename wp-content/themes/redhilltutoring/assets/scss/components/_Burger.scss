@@ -1,0 +1,139 @@
+/*
+Burger Navigaton Menu
+*/
+
+$menu-width: 100%;
+
+.navburger-main {
+	z-index: 999;
+	@apply bg-gray-100;
+	font-size: 1.5rem;
+	font-weight: 700;
+	height: 100vh;
+	padding: 0 0;
+	text-align: center;
+	overflow: scroll;
+	width: $menu-width;
+	position: absolute;
+	top: 0;
+	left: -$menu-width;
+
+	> ul {
+		padding: 15px 0 0 0;
+	}
+
+	li {
+		list-style: none;
+		transition: background-color 0.2s ease;
+		// @apply bg-gray-200;
+
+		&:hover {
+			@apply bg-gray-700;
+		}
+
+		a {
+			width: 100%;
+			box-sizing: border-box;
+			padding: 20px;
+			display: inline-block;
+			text-decoration: none;
+
+			span {
+				display: inline-block;
+				vertical-align: middle;
+			}
+		}
+
+		ul.sub-menu {
+			display: none;
+			margin: 0;
+			padding: 0;
+			@apply bg-gray-500;
+
+			li {
+				transition: background-color 0.2s ease;
+				background: transparent;
+				margin-bottom: 0;
+
+				&:hover {
+					@apply bg-gray-100;
+				}
+
+				a {
+					padding: 15px 20px;
+				}
+			}
+		}
+	}
+}
+
+/*
+   * Toggle
+   */
+#menuToggle {
+	outline: none;
+	border: none;
+	background-color: transparent;
+	z-index: 1000;
+	position: relative;
+	top: 0px;
+	right: -15px;
+	display: block;
+	cursor: pointer;
+	height: 35px;
+	width: 45px;
+	margin: 0 0 0;
+}
+
+#menuToggle span {
+	padding: 0;
+	display: block;
+	width: 33px;
+	height: 3px;
+	margin-bottom: 5px;
+	position: relative;
+	@apply bg-gray-700;
+	border-radius: 3px;
+	transform-origin: 4px 0px;
+	transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+}
+
+#menuToggle span:first-child {
+	transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-child(2) {
+	width: 25px;
+	transform-origin: 0% 100%;
+}
+
+/*
+* Transform all the slices of hamburger
+*/
+
+/* purgecss start ignore */
+#menuToggle.open span {
+	opacity: 1;
+	transform: rotate(45deg) translate(-3px, -3px);
+	@apply bg-gray-700;
+}
+
+#menuToggle.open span:nth-child(2) {
+	opacity: 0;
+	transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+#menuToggle.open span:nth-child(3) {
+	transform: rotate(-45deg) translate(-3px, -3px);
+}
+
+/* ...more rules */
+/* purgecss end ignore */
+
+/*
+* Prevent background scroll when menu open
+*/
+
+.no-scroll {
+	overflow: hidden;
+}

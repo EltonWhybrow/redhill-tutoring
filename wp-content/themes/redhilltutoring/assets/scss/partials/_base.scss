@@ -1,0 +1,34 @@
+// Add any custom base CSS can go here
+
+$img-path: "../../../../../../resources/img";
+// Foundation
+
+html {
+	@apply antialiased;
+	font-size: 15px;
+	text-rendering: optimizeLegibility;
+	@apply text-gray-700;
+
+	@screen md {
+		font-size: 18px;
+	}
+}
+
+p {
+	@apply py-1;
+}
+
+body {
+	font-weight: 400;
+	@apply font-azo;
+}
+
+.ig-break {
+	border-bottom: dashed 2px;
+	@apply border-gray-300;
+
+	@screen md {
+		border-bottom: none;
+	}
+}
+/* purgecss start ignore */
