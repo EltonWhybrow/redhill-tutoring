@@ -141,7 +141,7 @@ get_header(); ?>
 					<p class="text-sm font-semibold">Bethany Whybrow - Manager</p>
 
 				</div>
-				<div class="brand-swoosh object-cover">
+				<div class="brand-swoosh object-cover w-full md:w-96">
 					<picture>
 						<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
 						<source srcset="https://picsum.photos/640/480" type="image/jpeg">

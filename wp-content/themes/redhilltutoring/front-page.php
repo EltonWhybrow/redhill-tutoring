@@ -64,7 +64,7 @@
 
 		<div class="mx-8 flex flex-wrap md:flex-nowrap mb-20">
 
-			<div class="brand-swoosh object-cover md:hidden">
+			<div class="brand-swoosh object-cover w-full md:w-96 md:hidden">
 				<picture>
 					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
 					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
@@ -73,7 +73,7 @@
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pr-4 mt-2 md:mt-0">
+				<div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Highly Qualified
 					</span>
@@ -108,7 +108,7 @@
 		</div>
 
 		<div class="mx-8 flex flex-wrap md:flex-nowrap mb-20">
-			<div class="brand-swoosh-l object-cover">
+			<div class="brand-swoosh-l object-cover w-full md:w-96">
 				<picture>
 					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
 					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
@@ -117,7 +117,7 @@
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pl-4 mt-2 md:mt-0">
+				<div class="md:pl-4 md:mt-2 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Maths & English
 					</span>
@@ -135,7 +135,7 @@
 
 		<div class="mx-8 flex flex-wrap md:flex-nowrap mb-10">
 
-			<div class="brand-swoosh object-cover md:hidden">
+			<div class="brand-swoosh object-cover w-full md:w-96 md:hidden">
 				<picture>
 					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
 					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
@@ -144,7 +144,7 @@
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pr-4 mt-2 md:mt-0">
+				<div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Personal & Friendly
 					</span>

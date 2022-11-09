@@ -53,10 +53,10 @@ get_header(); ?>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
                     <p class="text-2xl text-teal-500 font-semibold">£30.00/hr</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Book Session
                         </a>
-                        <a class="modal-trigger relative primary-link text-sm underline" data-id="modal-timetable" href="/about/#time-table">
+                        <a class="modal-trigger relative primary-link md:text-sm text-md underline" data-id="modal-timetable" href="/about/#time-table">
                             View slots
                         </a>
                     </p>
@@ -74,10 +74,10 @@ get_header(); ?>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
                     <p class="text-2xl text-teal-500 font-semibold">£20.00/hr</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Book Session
                         </a>
-                        <a class="modal-trigger relative primary-link text-sm underline" data-id="modal-timetable" href="/about/#time-table">
+                        <a class="modal-trigger relative primary-link md:text-sm text-md underline" data-id="modal-timetable" href="/about/#time-table">
                             View slots
                         </a>
                     </p>
@@ -99,10 +99,10 @@ get_header(); ?>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
                     <p class="text-2xl text-teal-500 font-semibold">£255.00</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Book Sessions
                         </a>
-                        <a class="modal-trigger relative primary-link text-sm underline" data-id="modal-timetable" href="/about/#time-table">
+                        <a class="modal-trigger relative primary-link md:text-sm text-md underline" data-id="modal-timetable" href="/about/#time-table">
                             View slots
                         </a>
                     </p>
@@ -124,10 +124,10 @@ get_header(); ?>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
                     <p class="text-2xl text-teal-500 font-semibold">£170.00</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Book Sessions
                         </a>
-                        <a class="modal-trigger relative primary-link text-sm underline" data-id="modal-timetable" href="/about/#time-table">
+                        <a class="modal-trigger relative primary-link md:text-sm text-md underline" data-id="modal-timetable" href="/about/#time-table">
                             View slots
                         </a>
                     </p>
