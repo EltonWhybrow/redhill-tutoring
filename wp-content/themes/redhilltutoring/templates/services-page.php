@@ -221,10 +221,10 @@ get_header(); ?>
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
     </button>
-    <h2 class="text-2xl">Group Session</h2>
+    <h2 class="text-2xl">Group Sessions</h2>
     <h4 class="pb-2 font-semibold">Benefits of group working</h4>
     <p>
-        Working in small groups allows children to attempt tasks they may not feel confident tackling indendently. Sharing ideas and listening to each other is another effective way of learning.</p>
+        Working in small groups allows children to attempt tasks, they may not feel confident tackling indendently. Sharing ideas and listening to each other is another effective way of learning.</p>
     <p>
         Children are far more likely to feel comfortable and confident within a small group, peer on peer learning, who may not otherwise participate.
     </p>
