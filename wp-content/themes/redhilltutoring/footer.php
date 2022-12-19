@@ -17,7 +17,7 @@
                     <li><a class='footer-link' href='tel:<?php echo do_shortcode("[mobile_number]"); ?>'><?php echo do_shortcode("[mobile_number]"); ?></a>
                     </li>
                     <li>
-                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Bethany</a>
+                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Bethany NOW!</a>
                     </li>
                     <li>
                         <a class='footer-link' href="/contact#contact-form">Contact form</a>
