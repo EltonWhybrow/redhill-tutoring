@@ -78,7 +78,9 @@ get_header(); ?>
                     </li>
                     <li class="relative py-3 ml-10 md:ml-2">
                         <img class="absolute -left-10 md:-left-7 inline-block top-2 md:top-3" src="/resources/img/pages/icons/icon-apple.svg" alt="apple icon" width="24px" height="auto" />
-                        Small group sessions
+                        Small <a class="modal-trigger relative primary-link text-base underline" data-id="modal-group-sessions">
+                            group sessions
+                        </a>
                     </li>
 
 
@@ -128,9 +130,9 @@ get_header(); ?>
             </div>
         </div> -->
 
-        <div class="mx-8 flex flex-wrap md:flex-nowrap mb-20 space-x-5">
+        <div class="mx-8 flex flex-wrap md:flex-nowrap mb-20 md:space-x-5">
 
-            <div class="brand-swoosh object-cover md:hidden">
+            <div class="brand-swoosh object-cover w-full md:w-96 md:hidden">
                 <picture>
                     <!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
                     <source srcset="https://picsum.photos/640/480" type="image/jpeg">
@@ -140,7 +142,7 @@ get_header(); ?>
 
             <div class="w-full md:w-3/5 flex justify-center items-center">
 
-                <div class="md:pr-4 mt-2 md:mt-0">
+                <div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
                     <span class="text-2xl pr-2 tracking-wide">
                         English
                     </span>
@@ -148,10 +150,10 @@ get_header(); ?>
                     <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
                     <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I am able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/contact/#contact-form">
+                        <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch
                         </a>
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link text-md md:text-sm underline" href="/session-booking/#booking-form">
                             Book Session
                         </a>
                     </p>
@@ -168,9 +170,9 @@ get_header(); ?>
             </div>
         </div>
 
-        <div class="mx-8 flex flex-wrap md:flex-nowrap mb-20 space-x-5">
+        <div class="mx-8 flex flex-wrap md:flex-nowrap mb-20 md:space-x-5">
 
-            <div class="brand-swoosh object-cover md:hidden">
+            <div class="brand-swoosh object-cover w-full md:w-96 md:hidden">
                 <picture>
                     <!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
                     <source srcset="https://picsum.photos/640/480" type="image/jpeg">
@@ -180,7 +182,7 @@ get_header(); ?>
 
             <div class="w-full md:w-3/5 flex justify-center items-center">
 
-                <div class="md:pr-4 mt-2 md:mt-0">
+                <div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
                     <span class="text-2xl pr-2 tracking-wide">
                         Maths
                     </span>
@@ -188,10 +190,10 @@ get_header(); ?>
                     <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
                     <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I can offer a customised maths curriculum, to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
-                        <a class="relative primary-link text-sm underline" href="/contact/#contact-form">
+                        <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch
                         </a>
-                        <a class="relative primary-link text-sm underline" href="/session-booking/#booking-form">
+                        <a class="relative primary-link text-md md:text-sm underline" href="/session-booking/#booking-form">
                             Book Session
                         </a>
                     </p>
@@ -209,6 +211,28 @@ get_header(); ?>
         </div>
     </section>
 
+</div>
+
+
+<!-- MODAL Test 1 -->
+<div id="modal-group-sessions" class="modal z-100 fixed left-0 top-0 md:top-20 md:left-1/4 m-auto bg-gray-100 w-screen md:w-1/2 h-screen sm:h-auto p-8 transform scale-0 transition-transform duration-300">
+    <button type="button" class="close-modal focus:outline-none absolute right-3 top-3">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+    </button>
+    <h2 class="text-2xl">Group Sessions</h2>
+    <h4 class="pb-2 font-semibold">Benefits of group working</h4>
+    <p>
+        Working in small groups allows children to attempt tasks, they may not feel confident tackling indendently. Sharing ideas and listening to each other is another effective way of learning.</p>
+    <p>
+        Children are far more likely to feel comfortable and confident within a small group, peer on peer learning, who may not otherwise participate.
+    </p>
+    <!-- <p>Current available days/times. To <a class="relative primary-link text-base" href="/session-booking/#booking-form">book a session</a> please contact me.
+    </p> -->
+
+
+    <!-- <button class="close-modal inline-flex primary-btn my-2 mx-auto">Close</button> -->
 </div>
 
 <?php get_footer(); ?>

@@ -4,8 +4,8 @@
 
         <div class="link-items flex flex-col sm:flex-row flex-wrap items-center sm:items-start justify-between p-2 text-white space-y-14 md:space-y-0">
             <div class="sm:w-full p-0 sm:p-24">
-                <img class="m-auto hidden md:block" src="/resources/img/pages/logos/redhill-tuts-logo-inverted-sm.svg" alt="Redhill Tutoring" width="340px" height="auto">
-                <img class="m-auto md:hidden" src="/resources/img/pages/logos/redhill-tuts-logo-inverted-sm.png" alt="Redhill Tutoring" width="340px" height="auto">
+                <!-- <img class="m-auto hidden md:block" src="/resources/img/pages/logos/redhill-tuts-logo-inverted-sm.svg" alt="Redhill Tutoring" width="340px" height="auto"> -->
+                <img class="m-auto" src="/resources/img/pages/logos/redhill-tuts-logo-inverted-sm.png" alt="Redhill Tutoring" width="340px" height="auto">
 
             </div>
 
@@ -17,7 +17,7 @@
                     <li><a class='footer-link' href='tel:<?php echo do_shortcode("[mobile_number]"); ?>'><?php echo do_shortcode("[mobile_number]"); ?></a>
                     </li>
                     <li>
-                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Bethany</a>
+                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Bethany NOW!</a>
                     </li>
                     <li>
                         <a class='footer-link' href="/contact#contact-form">Contact form</a>
@@ -28,7 +28,7 @@
             <div class="sm:w-1/4 p-0 text-xs sm:p-1 text-center">
                 <h3 class="text-base font-semibold text-gray-400 uppercase mb-2 pl-0">Company</h3>
                 <ul>
-                    <li><a class="footer-link" href="/testimonials">Testimonials</a></li>
+                    <!-- <li><a class="footer-link" href="/testimonials">Testimonials</a></li> -->
                     <li><a class="footer-link" href="/company-policy">Company Policies</a></li>
                     <li><a class="footer-link" href="/session-booking">Booking Sessions</a></li>
                     <li><a class="footer-link" href="/site-map">Sitemap</a></li>
