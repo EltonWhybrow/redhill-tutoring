@@ -73,7 +73,7 @@
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
+				<div class="md:pr-4 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Highly Qualified
 					</span>
@@ -117,7 +117,7 @@
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pl-4 md:mt-2 mt-5 md:mt-0">
+				<div class="md:pl-4 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Maths & English
 					</span>
@@ -137,14 +137,14 @@
 
 			<div class="brand-swoosh object-cover w-full md:w-96 md:hidden">
 				<picture>
-					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
-					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="https://picsum.photos/640/480" alt="Qualified Teacher">
+					<source srcset="/resources/img/pages/home/cabin-new-2.webp" type="image/webp">
+					<source srcset="/resources/img/pages/home/cabin-new-2.jpg" type="image/jpeg">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Qualified Teacher">
 				</picture>
 			</div>
 
 			<div class="w-full md:w-3/5 flex justify-center items-center">
-				<div class="md:pr-4 md:mt-2 mt-5 md:mt-0">
+				<div class="md:pr-4 mt-5 md:mt-0">
 					<span class="text-2xl pr-2 tracking-wide">
 						Personal & Friendly
 					</span>
@@ -163,9 +163,9 @@
 
 			<div class="brand-swoosh object-cover hidden md:block">
 				<picture>
-					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
-					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="https://picsum.photos/640/480" alt="Qualified Teacher">
+					<source srcset="/resources/img/pages/home/cabin-new-2.webp" type="image/webp">
+					<source srcset="/resources/img/pages/home/cabin-new-2.jpg" type="image/jpeg">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Qualified Teacher">
 				</picture>
 			</div>
 		</div>
