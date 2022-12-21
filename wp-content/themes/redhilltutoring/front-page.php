@@ -3,9 +3,11 @@
 <div class="wysiwyg-content bg-white">
 
 	<section class="relative hero-slider py-0">
+
 		<!-- MESSAGE notification -->
-		<?php echo do_shortcode("[get-message color='info' message='New tutoring service opening in the New Year']"); ?>
-		<!-- BOTTON Request -->
+		<!-- <? //php echo do_shortcode("[get-message color='info' message='New tutoring service opening in the New Year']"); 
+				?> -->
+		<!-- BUTTON Request -->
 		<p class="absolute left-1/2 top-1/3 z-50 -translate-x-1/2 transform hover:-translate-y-1 transition duration-400 ease-in-out">
 			<a id="register-interest" class='primary-btn pr-12' href='#request-callback'>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="absolute top-0 right-3 inline-block w-6 h-6 m-1 text-gray-100">
