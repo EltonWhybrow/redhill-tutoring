@@ -81,7 +81,7 @@
 
 					<h4 class="pb-2 font-semibold">Nearly 2 decades of classroom experience</h4>
 					<p class="text-base">I have 19 years of classroom experience. I studied at the <span class="font-semibold">University of Roehampton</span> where I achieved a <span class="font-semibold">2:1 BA HONs in Education with English Specialism</span>.
-						I began my career as a <span class="font-semibold">Deputy Playleader</span> for an integrated playgroup, after gaining my <span class="font-semibold">Cache Diploma in Nursery Nursing</span>. Alongside this role, I was given the opportunity to work as a <span class="font-semibold">Children's Play Services Co-ordinator</span> for Sutton Mencap. I went on to gain a <span class="font-semibold">BTEC diploma in Special Educational Needs</span>.
+						I began my career as a <span class="font-semibold">Deputy Playleader</span> for an integrated playgroup after gaining my <span class="font-semibold">Cache Diploma in Nursery Nursing</span>. Alongside this role, I was given the opportunity to work as a <span class="font-semibold">Children's Play Services Co-ordinator</span> for Sutton Mencap. I went on to gain a <span class="font-semibold">BTEC diploma in Special Educational Needs</span>.
 					</p>
 					<p class="py-0">
 						<a class="relative primary-link text-sm underline" href="/about">
@@ -122,7 +122,7 @@
 						Maths & English
 					</span>
 					<h4 class="pb-2 font-semibold">1:1 and group sessions to achieve results</h4>
-					<p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer customised Maths and English sessions based on a child's requirements. My aim is to close gaps in their learning and help children be more confident in the classroom. By offering this personalised approach to learning, I am able to broaden children's knowledge, understanding and confidence in Maths and English.
+					<p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer customised Maths and English sessions based on a child's requirements. My aim is to close gaps in their learning and help children be more confident in the classroom. By offering this personalised approach to learning, I aspire to broaden children's knowledge and understanding in Maths and English whilst building their confidence.
 					</p>
 					<p class="py-0">
 						<a class="relative primary-link text-sm underline" href="/services">
@@ -150,7 +150,7 @@
 					</span>
 
 					<h4 class="pb-2 font-semibold">Ideal location for extra study</h4>
-					<p class="text-base">Redhill Tutoring provides a calm and relaxed learning environment where children feel confident, comfortable and at ease. It offers a suitable learning environment to help children feel confident in sharing ideas, where their contributions will <span class="italic">always</span> be valued. All sessions will be taught in a purpose-built insulated cabin complete with fast wifi. The cabin has heating for the colder months.
+					<p class="text-base">Redhill Tutoring provides a calm and relaxed learning environment where children feel confident, comfortable and at ease. It offers a suitable learning environment to help children feel self-assured in sharing ideas, where their contributions will <span class="italic">always</span> be valued. All sessions will be taught in a purpose-built insulated cabin complete with fast wifi. The cabin has heating for the colder months.
 					</p>
 					<!-- <p class="py-0">
 						<a class="relative primary-link text-sm underline" href="/about">

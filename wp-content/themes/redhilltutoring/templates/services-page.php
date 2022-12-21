@@ -148,7 +148,7 @@ get_header(); ?>
                     </span>
 
                     <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
-                    <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I am able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p>
+                    <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I aspire able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch
@@ -188,7 +188,7 @@ get_header(); ?>
                     </span>
 
                     <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
-                    <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I can offer a customised maths curriculum, to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p>
+                    <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer a customised maths curriculum to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch
@@ -224,7 +224,7 @@ get_header(); ?>
     <h2 class="text-2xl">Group Sessions</h2>
     <h4 class="pb-2 font-semibold">Benefits of group working</h4>
     <p>
-        Working in small groups allows children to attempt tasks, they may not feel confident tackling indendently. Sharing ideas and listening to each other is another effective way of learning.</p>
+        Working in small groups allows children to attempt tasks they may not feel confident tackling independently. Sharing ideas and listening to each other is another effective way of learning.</p>
     <p>
         Children are far more likely to feel comfortable and confident within a small group, peer on peer learning, who may not otherwise participate.
     </p>
