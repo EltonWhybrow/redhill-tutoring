@@ -55,9 +55,9 @@ get_header(); ?>
 					</p>
 					<div class="brand-swoosh object-cover w-full md:w-96 md:float-right my-5 md:m-5">
 						<picture>
-							<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
-							<source srcset="https://picsum.photos/640/480" type="image/jpeg">
-							<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="https://picsum.photos/640/480" alt="Qualified Teacher">
+							<source srcset="/resources/img/pages/about/redhilltutoring-about-me.webp" type="image/webp">
+							<source srcset="/resources/img/pages/about/redhilltutoring-about-me.jpg" type="image/jpeg">
+							<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/about/redhilltutoring-about-me.jpg" alt="Bethany welcomes you to Redhill Tutoring">
 						</picture>
 					</div>
 					<p>
@@ -143,9 +143,9 @@ get_header(); ?>
 				</div>
 				<div class="brand-swoosh object-cover w-full md:w-96">
 					<picture>
-					<source srcset="/resources/img/pages/home/cabin-new.webp" type="image/webp">
-					<source srcset="/resources/img/pages/home/cabin-new.jpg" type="image/jpeg">
-						<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new.jpg" alt="Qualified Teacher">
+						<source srcset="/resources/img/pages/about/cabin-new.webp" type="image/webp">
+						<source srcset="/resources/img/pages/about/cabin-new.jpg" type="image/jpeg">
+						<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/about/cabin-new.jpg" alt="Cabin school setting">
 					</picture>
 				</div>
 			</div>
