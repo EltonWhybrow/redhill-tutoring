@@ -100,9 +100,9 @@
 
 			<div class="brand-swoosh object-cover hidden md:block">
 				<picture>
-					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
-					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="https://picsum.photos/640/480" alt="Qualified Teacher">
+					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.webp" type="image/webp">
+					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.jpg" type="image/jpeg">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-university.jpg" alt="Teaching degree at University of Roehampton">
 				</picture>
 			</div>
 		</div>
@@ -110,9 +110,9 @@
 		<div class="mx-8 flex flex-wrap md:flex-nowrap mb-20">
 			<div class="brand-swoosh-l object-cover w-full md:w-96">
 				<picture>
-					<!-- <source srcset="/resources/img/pages/services/cabin-offices.webp" type="image/webp"> -->
-					<source srcset="https://picsum.photos/640/480" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="https://picsum.photos/640/480" alt="Qualified Teacher">
+					<source srcset="/resources/img/pages/home/redhilltutoring-home-math-english.webp" type="image/webp">
+					<source srcset="/resources/img/pages/home/redhilltutoring-home-math-english.jpg" type="image/jpeg">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-math-english.jpg" alt="Math and English tutoring">
 				</picture>
 			</div>
 
@@ -139,7 +139,7 @@
 				<picture>
 					<source srcset="/resources/img/pages/home/cabin-new-2.webp" type="image/webp">
 					<source srcset="/resources/img/pages/home/cabin-new-2.jpg" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Qualified Teacher">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Cabin school Teacher">
 				</picture>
 			</div>
 
@@ -165,7 +165,7 @@
 				<picture>
 					<source srcset="/resources/img/pages/home/cabin-new-2.webp" type="image/webp">
 					<source srcset="/resources/img/pages/home/cabin-new-2.jpg" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Qualified Teacher">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/cabin-new-2.jpg" alt="Cabin school Teacher">
 				</picture>
 			</div>
 		</div>
