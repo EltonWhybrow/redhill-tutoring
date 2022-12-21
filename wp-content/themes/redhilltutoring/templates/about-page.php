@@ -48,7 +48,7 @@ get_header(); ?>
 
 					<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Experience</h3>
 					<p>
-						Hi, I'm Bethany and my career working with children has spanned <span class="font-semibold">over 25 years</span>. After starting out as a nursery nurse in 1997, my first job was the role of Deputy Playleader, working with children with additional needs and their siblings within an integrated setting. Alongside this work I became a Children's Play Coordinator for Sutton Mencap's Children's Services. The love and passion for both jobs prompted me to further my studies, and in 1999, I gained a <span class="font-semibold">BTEC qualification in Special Educational Needs</span>.</p>
+						My career working with children has spanned <span class="font-semibold">over 25 years</span>. I qualified as a nursery nurse in 1997 and my first job was the role of Deputy Playleader, working with children with additional needs and their siblings within an integrated setting. Alongside this work I became a Children's Play Coordinator for Sutton Mencap's Children's Services. The love and passion for both jobs prompted me to further my studies, and in 1999, I gained a <span class="font-semibold">BTEC qualification in Special Educational Needs</span>.</p>
 					<p>
 						It became very clear from working in these settings, that teaching was what I really wanted to do. Already having such a great foundation working with children and their families, I received an upper class division, <span class="font-semibold">BA HONS in Education with English specialism</span>, at the University of Roehampton, in 2004.
 
@@ -63,7 +63,7 @@ get_header(); ?>
 					<p>
 						Since then I have had over <span class="font-semibold">19 successful years</span> as a <span class="font-semibold">qualified primary school educator</span>. I have taught in <span class="font-semibold">Key Stage 1</span> and <span class="font-semibold">Key Stage 2</span> where inspiring lessons for inclusive education have been carefully planned and resourced. I have taught in both the state sector and the private school sector. My passion is teaching the development of phonics and early literacy skills, for children who are experiencing difficulty with reading and writing, but my teaching style is also suited to children who may feel apprehensive in some areas of their learning, and perhaps need a confidence boost and 'self-belief' mindset.</p>
 					<p>
-						I offer tutoring programmes for <span class="font-semibold">children aged 5 to 11</span>, supporting areas of the KS1 and KS2 Maths and English curriculum. I hope to inspire children to foster a love for learning and break down barriers that so often make children think they can't do it - when in fact they can! I use dyslexia friendly strategies (like coloured overlays and tinted exercise books). If you think your child would benefit from 1:1 tuition, or in small working groups of no more than 4 children at a time, to further develop their literacy or numeracy skills, I would love to hear from you.
+						I offer tutoring programmes for <span class="font-semibold">children aged 5 to 11</span>, supporting areas of the KS1 and KS2 Maths and English curriculum. I hope to inspire children to foster a love for learning and break down barriers that so often make children think they can't do it. If you think your child would benefit from 1:1 tuition, or in small working groups of no more than 4 children at a time, to further develop their literacy or numeracy skills, I would love to hear from you.
 
 					</p>
 
@@ -120,7 +120,7 @@ get_header(); ?>
 				<!-- // our vision -->
 				<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Vision</h3>
 				<p>
-					To provide a safe learning environment that is free from <span class="font-semibold">'fear of failure'</span>. To provide inclusive education for all children regardless of gender, race, disability, social class, religion or ethnicity. To ensure all children learn to the best of their ability and give them the tools and confidence that can contribute to decisions about their future.
+					To provide a safe learning environment that is free from <span class="font-semibold">'fear of failure'</span>. To provide inclusive education for all children regardless of gender, race, disability, social class, religion or ethnicity. To ensure all children learn to the best of their ability and give them the confidence that can contribute to decisions about their future.
 				</p>
 			</div>
 
