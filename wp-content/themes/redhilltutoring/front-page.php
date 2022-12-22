@@ -152,7 +152,7 @@
 					</span>
 
 					<h4 class="pb-2 font-semibold">Ideal location for extra study</h4>
-					<p class="text-base">Redhill Tutoring provides a calm and relaxed learning environment where children feel confident, comfortable and at ease. It offers a suitable learning environment to help children feel self-assured in sharing ideas, where their contributions will <span class="italic">always</span> be valued. All sessions will be taught in a purpose-built insulated cabin complete with fast wifi. The cabin has heating for the colder months.
+					<p class="text-base">Redhill Tutoring provides a calm and relaxed learning environment where children feel confident, comfortable and at ease. It offers a suitable learning environment to help children feel self-assured in sharing ideas, where their contributions will <span class="italic">always</span> be valued. All sessions will be taught in a purpose-built insulated cabin complete with fast Wi-Fi. The cabin has heating for the colder months.
 					</p>
 					<!-- <p class="py-0">
 						<a class="relative primary-link text-sm underline" href="/about">
