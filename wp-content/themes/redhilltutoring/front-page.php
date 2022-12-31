@@ -194,9 +194,9 @@
 					<div class="px-5">
 						<p class="text-2xl pb-2">"Bethany was my son's, Year 1 primary school teacher and she started my son's journey of loving school. She made each day interesting and informative and created a passion for learning in him that has lasted. She had a wonderful, kind and caring way about her and I will be forever grateful for the compassion she always showed him. If I am to ask him who his favourite teacher was, he will say Mrs Whybrow."</p>
 						<h4 class="text-xl text-right pt-4 pr-10">- CLAIRE F <br />Coulsdon, Surrey</h4>
-						<!-- <p class="text-teal-500 text-xs text-right pr-10">
+						<p class="text-teal-500 text-xs text-right pr-10">
 							View more <a href="/testimonials" class="primary-link text-xs underline">feedback</a>
-						</p> -->
+						</p>
 					</div>
 				</div>
 			</div>

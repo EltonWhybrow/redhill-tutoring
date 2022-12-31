@@ -28,7 +28,7 @@
             <div class="sm:w-1/4 p-0 text-xs sm:p-1 text-center">
                 <h3 class="text-base font-semibold text-gray-400 uppercase mb-2 pl-0">Company</h3>
                 <ul>
-                    <!-- <li><a class="footer-link" href="/testimonials">Testimonials</a></li> -->
+                    <li><a class="footer-link" href="/testimonials">Testimonials</a></li>
                     <li><a class="footer-link" href="/company-policy">Company Policies</a></li>
                     <li><a class="footer-link" href="/session-booking">Booking Sessions</a></li>
                     <li><a class="footer-link" href="/site-map">Sitemap</a></li>

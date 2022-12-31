@@ -54,7 +54,7 @@ get_header(); ?>
                             'post_status' => 'publish', // only shows published cpt pages
                             'orderby' => 'title', // orders by cpt post title
                             'order' => 'ASC', // orders cpt posts title alphabetically
-                            'post__not_in' => array(222, 94), // hide site map page and !testimonials!
+                            'post__not_in' => array(94), // hide site map page
                             // 'tax_query' => array(
                             //     array(
                             //         'taxonomy' => 'category',
