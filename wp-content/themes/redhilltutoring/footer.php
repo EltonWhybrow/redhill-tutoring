@@ -59,8 +59,13 @@
 
     </div>
 
+    <div class="pt-10 lg:container lg:mx-auto text-center">
+        <div class="fb-like" data-href="https://www.facebook.com/profile.php?id=100088812584660" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+    </div>
+
     <?php get_template_part('templates/partials/copyright'); ?>
     </div>
+
 
     <!-- MODAL OVERLAY -->
     <!-- <div id="modal-overlay" class="cursor-pointer close-modal z-75 fixed hidden top-0 left-0 w-screen h-screen flex items-center justify-center bg-blue-700 bg-opacity-50 ">
