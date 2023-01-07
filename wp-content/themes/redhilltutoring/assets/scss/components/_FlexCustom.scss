@@ -68,6 +68,7 @@ Flexislider:
 
 		li {
 			height: 100%;
+			background-position: center top;
 			.slider-content {
 				@apply pt-10;
 			}
@@ -90,6 +91,11 @@ Flexislider:
 						top: 2px;
 					}
 				}
+			}
+		}
+		@media screen and (min-width: 964px) {
+			li {
+				background-position: center center;
 			}
 		}
 	}
