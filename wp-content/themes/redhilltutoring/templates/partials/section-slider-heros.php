@@ -23,8 +23,7 @@ Customer quotes slider
             if ($featured_query->have_posts()) : while ($featured_query->have_posts()) : $featured_query->the_post(); ?>
                     <li class="slide" style="
             background-image: url(<?php the_post_thumbnail_url('hero-banner'); ?>); 
-            background-size: cover; 
-            background-position: center bottom">
+            background-size: cover">
 
                         <div class="flex container mx-auto">
                             <div class="hidden w-full h-16 mx-auto text-white p-32">
