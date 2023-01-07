@@ -58,7 +58,8 @@
 
     </div>
     <div class="pt-10 lg:container lg:mx-auto text-center">
-        <div class="fb-like" data-href="//www.facebook.com/redhill.tutoring" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+        <div class="fb-like" data-href="https://www.facebook.com/redhill.tutoring/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+
     </div>
 
     <?php get_template_part('templates/partials/copyright'); ?>
