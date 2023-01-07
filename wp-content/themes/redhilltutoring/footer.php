@@ -12,8 +12,6 @@
             <div class="sm:w-1/4 p-0 text-xs sm:p-1 text-center">
                 <h3 class="text-base font-semibold text-gray-400 uppercase mb-2 pl-0">Get in touch</h3>
                 <ul>
-                    <!-- <li><a class='footer-link' href='tel:<?php echo do_shortcode("[landline_number]"); ?>'><?php echo do_shortcode("[landline_number]"); ?></a>
-                    </li> -->
                     <li><a class='footer-link' href='tel:<?php echo do_shortcode("[mobile_number]"); ?>'><?php echo do_shortcode("[mobile_number]"); ?></a>
                     </li>
                     <li>
@@ -50,7 +48,8 @@
 
                 <h3 class="text-base font-semibold text-white mb-3 pl-0">Social media</h3>
                 <div class="">
-                    <?php get_template_part('templates/partials/social/footer', 'icons'); ?>
+                    <?php // get_template_part('templates/partials/social/footer', 'icons'); 
+                    ?>
                 </div>
             </div> -->
 
@@ -58,7 +57,6 @@
         </div>
 
     </div>
-
     <div class="pt-10 lg:container lg:mx-auto text-center">
         <div class="fb-like" data-href="https://www.facebook.com/profile.php?id=100088812584660" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
     </div>
