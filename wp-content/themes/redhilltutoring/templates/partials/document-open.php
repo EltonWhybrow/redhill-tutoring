@@ -52,4 +52,4 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v15.0&appId=549077213943811&autoLogAppEvents=1" nonce="fz5sIR51"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v15.0&appId=549077213943811&autoLogAppEvents=1" nonce="Hf2CXa8e"></script>
