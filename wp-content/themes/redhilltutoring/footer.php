@@ -1,6 +1,6 @@
 <!-- Site footer -->
 <footer class="footer pt-14 pb-4">
-    <div class="lg:container lg:mx-auto">
+    <div class="lg:container lg:mx-auto pb-10">
 
         <div class="link-items flex flex-col sm:flex-row flex-wrap items-center sm:items-start justify-between p-2 text-white space-y-14 md:space-y-0">
             <div class="sm:w-full p-0 sm:p-24">
@@ -58,7 +58,7 @@
 
     </div>
     <div class="pt-10 lg:container lg:mx-auto text-center">
-        <div class="fb-like" data-href="https://www.facebook.com/profile.php?id=100088812584660" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+        <div class="fb-like" data-href="//www.facebook.com/redhill.tutoring" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
     </div>
 
     <?php get_template_part('templates/partials/copyright'); ?>
