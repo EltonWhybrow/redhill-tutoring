@@ -8,9 +8,16 @@
 		<!-- <? //php echo do_shortcode("[get-message color='info' message='New tutoring service opening in the New Year']"); 
 				?> -->
 		<!-- BUTTON Request -->
-		<p class="absolute left-1/2 top-1/3 z-50 -translate-x-1/2 transform hover:-translate-y-1 transition duration-400 ease-in-out">
-			<a id="register-interest" class='primary-btn pr-12' href='#request-callback'>
-				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="absolute top-0 right-3 inline-block w-6 h-6 m-1 text-gray-100">
+		<p class="absolute left-1/2 top-1/3 z-50 transform -translate-x-1/2">
+
+			<a class='primary-btn pr-12 relative mr-1 transform transition duration-400 ease-in-out' href='/session-booking'>
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="absolute right-3 inline-block w-6 h-6 text-gray-100">
+					<path stroke-linecap="round" stroke-linejoin="round" d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+				</svg>
+				Book now!
+			</a>
+			<a id="register-interest" class='primary-btn pr-12 ml-1 relative transform translate-x-1/2 transition duration-400 ease-in-out' href='#request-callback'>
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="absolute right-3 inline-block w-6 h-6 text-gray-100">
 					<path stroke-linecap="round" stroke-linejoin="round" d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
 				</svg>
 				Register Interest
@@ -51,10 +58,8 @@
 
 				<div class="text-base py-6">
 					<h4 class="pt-6 font-semibold">Register your interest</h4>
-					<h2 class="text-2xl">I will check availability and <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">get in touch</span></h2>
-					<p class="py-2 text-gray-400">This form registers your interest with Redhill Tutoring, please use the <a class="relative text-base hover:underline" href="/contact#contact-form">contact form</a> if you have any questions or queries.</p>
-					<p>
-					</p>
+					<h2 class="text-2xl">When new slots become available you'll <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">be the first</span> to know.</h2>
+					<p class="py-2 text-gray-400">This form registers your interest and puts you in a queue to be informed about availability.</p>
 					<?php echo do_shortcode('[wpforms id="153" title="false"]'); ?>
 				</div>
 			</div>
