@@ -75,43 +75,11 @@ get_header(); ?>
 			<!-- // timetable -->
 			<div id="time-table" class="pb-5 pr-5">
 				<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Tuition timetable</h3>
-				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>?
+				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>. Days not available? <a class="relative primary-link text-base" href="/#request-callback">Register interest</a> and be informed when available.
 				</p>
-				<div class="flex flex-wrap -mx-2 overflow-hidden">
 
-					<div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/12">
-						<h3 class="text-teal-500 font-semibold">Monday</h3>
-						<p class="line-through">4.30pm - 5.30pm</p>
-						<p class="line-through">5.45pm - 6.45pm</p>
-					</div>
-
-					<div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/12">
-						<h3 class="text-teal-500 font-semibold">Tuesday</h3>
-						<p class="line-through">4.30pm - 5.30pm</p>
-						<p class="line-through">5.45pm - 6.45pm</p>
-					</div>
-
-					<div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/12">
-						<h3 class="text-teal-500 font-semibold">Wednesday</h3>
-						<p class="line-through">4.30pm - 5.30pm</p>
-						<p class="line-through">5.45pm - 6.45pm</p>
-					</div>
-
-					<div class="my-2 px-2 w-1/2 overflow-hidden sm:w-3/12">
-						<h3 class="text-teal-500 font-semibold">Thursday</h3>
-						<p>4.30pm - 5.30pm <span class="text-teal-500">(Maths)</span></p>
-						<p>5.45pm - 6.45pm <span class="text-teal-500">(English)</span></p>
-						<p>7.00pm - 8.00pm <span class="text-teal-500">(1:1 Sessions)</span></p>
-					</div>
-
-					<div class="my-2 px-2 w-1/2 overflow-hidden sm:w-3/12">
-						<h3 class="text-teal-500 font-semibold">Friday</h3>
-						<p>4.30pm - 5.30pm <span class="text-teal-500">(Maths)</span></p>
-						<p>5.45pm - 6.45pm <span class="text-teal-500">(English)</span></p>
-						<p>7.00pm - 8.00pm <span class="text-teal-500">(1:1 Sessions)</span></p>
-					</div>
-
-				</div>
+				<!-- Timetable template -->
+				<?php get_template_part('templates/partials/timetable/timetable'); ?>
 
 
 			</div>
