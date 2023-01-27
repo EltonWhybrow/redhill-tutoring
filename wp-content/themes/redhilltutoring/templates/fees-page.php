@@ -51,7 +51,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£30.00/hr</p>
+                    <p class="text-2xl text-teal-500 font-semibold">£30.00/hr <span class="text-sm">(Saturday £35.00/hr)</span></p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -97,7 +97,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session bundle (10 lessons)</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£255.00</p>
+                    <p class="text-2xl text-teal-500 font-semibold">£255.00 <span class="text-sm">(Saturday £297.50/hr)</span></p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -152,42 +152,8 @@ get_header(); ?>
     <p>Current available days/times. <a class="relative primary-link text-base" href="/session-booking/#booking-form">Book a session</a> or <a id="register-interest" class='primary-link' href='/#request-callback'>register Interest</a> if your day is currently unavailable.
     </p>
 
-
-    <div class="flex flex-wrap -mx-2 overflow-hidden">
-
-        <div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/5 text-sm">
-            <h3 class="text-teal-500 font-semibold">Monday</h3>
-            <p class="line-through">4.30pm - 5.30pm</p>
-            <p class="line-through">5.45pm - 6.45pm</p>
-        </div>
-
-        <div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/5 text-sm">
-            <h3 class="text-teal-500 font-semibold">Tuesday</h3>
-            <p class="line-through">4.30pm - 5.30pm</p>
-            <p class="line-through">5.45pm - 6.45pm</p>
-        </div>
-
-        <div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/5 text-sm">
-            <h3 class="text-teal-500 font-semibold">Wednesday</h3>
-            <p class="line-through">4.30pm - 5.30pm</p>
-            <p class="line-through">5.45pm - 6.45pm</p>
-        </div>
-
-        <div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/5 text-sm">
-            <h3 class="text-teal-500 font-semibold">Thursday</h3>
-            <p>4.30pm - 5.30pm <span class="text-teal-500">(Maths)</span></p>
-            <p>5.45pm - 6.45pm <span class="text-teal-500">(English)</span></p>
-            <p>7.00pm - 8.00pm <span class="text-teal-500">(1:1 Sessions)</span></p>
-        </div>
-
-        <div class="my-2 px-2 w-1/2 overflow-hidden sm:w-2/5 text-sm">
-            <h3 class="text-teal-500 font-semibold">Friday</h3>
-            <p>4.30pm - 5.30pm <span class="text-teal-500">(Maths)</span></p>
-            <p>5.45pm - 6.45pm <span class="text-teal-500">(English)</span></p>
-            <p>7.00pm - 8.00pm <span class="text-teal-500">(1:1 Sessions)</span></p>
-        </div>
-
-    </div>
+    <!-- Timetable template -->
+    <?php get_template_part('templates/partials/timetable/timetable'); ?>
 
     <!-- <button class="close-modal inline-flex primary-btn my-2 mx-auto">Close</button> -->
 </div>
