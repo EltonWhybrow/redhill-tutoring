@@ -194,7 +194,7 @@
 
 			<div class="px-5 text-center">
 				<h2 class="text-2xl">Fantastic <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2 ">Testimonials</span></h2>
-				<p class="text-lg text-gray-500">Feedback from students and parents</p>
+				<p class="text-lg text-gray-500">Feedback from students, parents and colleagues</p>
 			</div>
 
 			<div class="mx-8 flex flex-wrap md:flex-nowrap pt-5 md:pt-10 space-x-5 space-y-5 md:space-y-0">

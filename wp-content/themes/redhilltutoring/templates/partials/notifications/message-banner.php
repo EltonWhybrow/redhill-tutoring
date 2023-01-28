@@ -4,7 +4,7 @@
     <div class="flex justify-center items-center bg-<?php echo $color ?>-400 px-3 py-2">
         <div class="flex-1"></div>
 
-        <div class="px-3 inline-block">
+        <div class="pr-3 inline-block">
 
 
             <p class="text-<?php echo $color ?>-900 text-sm inline-block align-text-top">
