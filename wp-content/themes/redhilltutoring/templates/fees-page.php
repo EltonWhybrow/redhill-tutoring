@@ -139,6 +139,36 @@ get_header(); ?>
         </div>
 
     </section>
+
+    <!-- TESTIMONIALS -->
+    <section id="testinonials" class="w-full bg-gray-300">
+        <div class="max-w-5xl mx-auto py-28">
+
+            <div class="px-5 text-center">
+                <h2 class="text-2xl">Fantastic <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2 ">Testimonials</span></h2>
+                <p class="text-lg text-gray-500">Feedback from students, parents and colleagues</p>
+            </div>
+
+            <div class="mx-8 flex flex-wrap md:flex-nowrap pt-5 md:pt-10 space-x-5 space-y-5 md:space-y-0">
+                <div class="py-0">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-36 w-36 text-teal-500">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
+                    </svg>
+                </div>
+
+                <div class="py-0 w-full">
+                    <div class="px-5">
+                        <p class="text-2xl pb-2">"I had the pleasure of working with Bethany for 8 years. She is an incredibly versatile KS1 &amp; KS2 teacher. She demonstrated excellent curriculum knowledge, clear differentiation &amp; a passion for being in the classroom. Her lessons consistently included highly engaging and exciting activities for all children."</p>
+                        <h4 class="text-xl text-right pt-4 pr-10">- TINA FROST-LUTMAN M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>
+                        <p class="text-teal-500 text-xs text-right pr-10">
+                            View more <a href="/testimonials" class="primary-link text-xs underline">feedback</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 </div>
 
 <!-- MODAL Test 1 -->

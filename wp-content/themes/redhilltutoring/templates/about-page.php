@@ -102,7 +102,7 @@ get_header(); ?>
 
 				<div class="w-full md:w-3/5 pr-5">
 					<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Work Ethics</h3>
-					<p>I am ambitious and hard working and dedicated to the profession of teaching. I have high standards for myself and for my students. I am an honest individual and believe in fairness and respect for the children that I work closely with and their families. View <a class="relative primary-link text-base" href="/testimonials">feedback</a> from parents.
+					<p>I am ambitious and hard working and dedicated to the profession of teaching. I have high standards for myself and for my students. I am an honest individual and believe in fairness and respect for the children that I work closely with and their families. View <a class="relative primary-link text-base" href="/testimonials">feedback</a> from students, parents and colleagues.
 					</p>
 
 					<h4 class="mt-2">Looking forward to hearing from you.</h4>
