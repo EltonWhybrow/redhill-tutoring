@@ -179,7 +179,8 @@ get_header(); ?>
         </svg>
     </button>
     <h2 class="text-2xl">Tuition timetable</h2>
-    <p>Current available days/times. <a class="relative primary-link text-base" href="/session-booking/#booking-form">Book a session</a> or <a id="register-interest" class='primary-link' href='/#request-callback'>register Interest</a> if your day is currently unavailable.
+    <p><a class="relative primary-link text-base" href="/session-booking/#booking-form">Book a session</a> for currently available days.</p>
+    <p>If your day is currently unavailable <a id="register-interest" class='primary-link' href='/#request-callback'>register interest</a> to get on waiting list.
     </p>
 
     <!-- Timetable template -->
