@@ -106,7 +106,7 @@ get_header(); ?>
 					</p>
 
 					<h4 class="mt-2">Looking forward to hearing from you.</h4>
-					<p class="text-sm font-semibold">Bethany Whybrow - Manager</p>
+					<p class="text-sm font-semibold">Bethany Whybrow</p>
 
 				</div>
 				<div class="brand-swoosh object-cover w-full md:w-96">
