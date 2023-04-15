@@ -3,18 +3,24 @@
 
     <div class="my-2 px-2 w-6/12 overflow-hidden">
         <h3 class="text-teal-500 font-semibold">Monday</h3>
-        <p class="italic">Spaces available as of September 2023</p>
+        <p>3.45pm - 4.45pm</p>
+        <p>5.00pm - 6.00pm</p>
+        <p>6.15pm - 7.15pm</p>
     </div>
 
     <div class="my-2 px-2 w-6/12 overflow-hidden">
         <h3 class="text-teal-500 font-semibold">Tuesday</h3>
-        <p class="italic">Spaces available as of September 2023</p>
+        <p>3.45pm - 4.45pm</p>
+        <p>5.00pm - 6.00pm</p>
+        <p>6.15pm - 7.15pm</p>
 
     </div>
 
     <div class="my-2 px-2 w-6/12 overflow-hidden">
         <h3 class="text-teal-500 font-semibold">Wednesday</h3>
-        <p class="italic">Spaces available as of September 2023</p>
+        <p>3.45pm - 4.45pm</p>
+        <p>5.00pm - 6.00pm</p>
+        <p>6.15pm - 7.15pm</p>
     </div>
 
     <div class="my-2 px-2 w-6/12 overflow-hidden">
@@ -26,8 +32,9 @@
 
     <div class="my-2 px-2 w-6/12 overflow-hidden">
         <h3 class="text-teal-500 font-semibold">Friday</h3>
-        <p>4.00pm - 5.00pm</p>
-        <p>5.15pm - 6.15pm</p>
+        <p>3.45pm - 4.45pm</p>
+        <p>5.00pm - 6.00pm</p>
+        <p>6.15pm - 7.15pm</p>
 
     </div>
     <div class="my-2 px-2 w-6/12 overflow-hidden">

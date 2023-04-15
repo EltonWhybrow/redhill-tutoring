@@ -84,7 +84,7 @@ get_header(); ?>
                     </li>
                     <li class="relative py-3 ml-10 md:ml-2">
                         <img class="absolute -left-10 md:-left-7 inline-block top-2 md:top-3" src="/resources/img/pages/icons/icon-apple.svg" alt="apple icon" width="24px" height="auto" />
-                        Year 6 to 7 transition work
+                        10 and 11 + prep
                     </li>
 
 

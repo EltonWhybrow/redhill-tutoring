@@ -78,7 +78,7 @@ get_header(); ?>
 				<p>
 					These are the days and times I offer. Please do contact me for availability.
 				</p>
-				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>. Days not available? <a class="relative primary-link text-base" href="/#request-callback">Register interest</a> and be informed when available.
+				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>.
 				</p>
 
 				<!-- Timetable template -->
