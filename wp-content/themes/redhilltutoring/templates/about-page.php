@@ -40,7 +40,7 @@ get_header(); ?>
 
 
 	<section class="w-full px-5">
-		<div class="max-w-5xl mx-auto py-10 md:py-20">
+		<div class="max-w-5xl mx-auto py-10 md:py-20 px-5">
 
 			<div class="flex flex-wrap md:flex-nowrap mb-5">
 				<div class="w-full pr-5">
