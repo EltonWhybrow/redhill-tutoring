@@ -29,6 +29,7 @@
                     <li><a class="footer-link" href="/testimonials">Testimonials</a></li>
                     <li><a class="footer-link" href="/company-policy">Company Policies</a></li>
                     <li><a class="footer-link" href="/session-booking">Booking Sessions</a></li>
+                    <li><a class="footer-link" href="/terms-and-conditions">Terms &amp; Conditions</a></li>
                     <li><a class="footer-link" href="/site-map">Sitemap</a></li>
                 </ul>
             </div>

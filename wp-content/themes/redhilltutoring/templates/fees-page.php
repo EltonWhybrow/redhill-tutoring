@@ -51,7 +51,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£30.00/hr <span class="text-sm">(Saturday £35.00/hr)</span></p>
+                    <p class="text-2xl text-teal-500 font-semibold">£35.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -72,7 +72,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">Small group session (max. 4)</h4>
                     <p class="text-base">Peer and collaborative learning one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£20.00/hr</p>
+                    <p class="text-2xl text-teal-500 font-semibold">£25.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -84,7 +84,7 @@ get_header(); ?>
                 </div>
 
             </div>
-            <div class="border rounded-md border-gray-400 p-10 relative">
+            <!-- <div class="border rounded-md border-gray-400 p-10 relative">
                 <span class="absolute -right-1 md:-right-5 -top-6 rotate-12 transform">
                     <img class="hidden md:block" src="/resources/img/pages/fees/saving.svg" alt="percent off" width="100px" height="auto" />
                     <img class="md:hidden" src="/resources/img/pages/fees/saving.png" alt="percent off" width="100px" height="auto" />
@@ -133,7 +133,7 @@ get_header(); ?>
                     </p>
                 </div>
 
-            </div>
+            </div> -->
 
 
         </div>

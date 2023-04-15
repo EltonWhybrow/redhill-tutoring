@@ -32,7 +32,7 @@ get_header(); ?>
 			<div class="px-5 text-base">
 				<h4 class="hidden md:block pt-6 font-semibold">About me</h4>
 				<h2 class="text-2xl">Passionate about <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">teaching</span> and building <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">confidence</span></h2>
-				<p class="py-2">If you have any queries feel free to <a class="primary-link relative text-base" href="/contact#contact-form">contact me</a>.
+				<p class="py-2">If you have any queries, feel free to <a class="primary-link relative text-base" href="/contact#contact-form">contact me</a>.
 				</p>
 			</div>
 		</div>
@@ -75,7 +75,10 @@ get_header(); ?>
 			<!-- // timetable -->
 			<div id="time-table" class="pb-5 pr-5">
 				<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Tuition timetable</h3>
-				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>. Days not available? <a class="relative primary-link text-base" href="/#request-callback">Register interest</a> and be informed when available.
+				<p>
+					These are the days and times I offer. Please do contact me for availability.
+				</p>
+				<p>Looking for <a class="relative primary-link text-base" href="/fees">tutition fees</a>.
 				</p>
 
 				<!-- Timetable template -->
