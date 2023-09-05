@@ -56,11 +56,11 @@ get_header(); ?>
                     </li>
                     <li class="relative py-3 ml-10 md:ml-2">
                         <img class="absolute -left-10 md:-left-7 inline-block top-2 md:top-3" src="/resources/img/pages/icons/icon-apple.svg" alt="apple icon" width="24px" height="auto" />
-                        English tuition (Key Stage 1 & 2)
+                        English tuition (Key Stage 2)
                     </li>
                     <li class="relative py-3 ml-10 md:ml-2">
                         <img class="absolute -left-10 md:-left-7 inline-block top-2 md:top-3" src="/resources/img/pages/icons/icon-apple.svg" alt="apple icon" width="24px" height="auto" />
-                        Maths tuition (Key Stage 1 & 2)
+                        Maths tuition (Key Stage 2)
                     </li>
 
                 </ul>
@@ -151,7 +151,7 @@ get_header(); ?>
                         English
                     </span>
 
-                    <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
+                    <h4 class="pb-2 font-semibold">Key Stage 2</h4>
                     <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I aspire able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
@@ -191,7 +191,7 @@ get_header(); ?>
                         Maths
                     </span>
 
-                    <h4 class="pb-2 font-semibold">Key Stage 1 & 2</h4>
+                    <h4 class="pb-2 font-semibold">Key Stage 2</h4>
                     <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer a customised maths curriculum to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
