@@ -40,7 +40,7 @@
 	<section id="quote" class="max-w-5xl mx-auto py-10">
 
 		<div class="text-center">
-			<h1 class="hidden">Redhill Tutoring - Bethany Whybrow</h1>
+			<h1 class="hidden">Redhill Tutoring - Find the right tutor for your child</h1>
 			<div class="flex justify-center mx-10 mt-2">
 				<div>
 					<h3 class="text-xl uppercase tracking-wide">An investment in knowledge pays the best dividends.</h3>
@@ -66,7 +66,7 @@
 			<div class="flex py-1 space-x-5 mx-8">
 
 				<div class="text-base py-6">
-					<h4 class="pt-6 font-semibold">Register your interest</h4>
+					<h4 class="pt-6 font-semibold">Register your interest today!</h4>
 					<h2 class="text-2xl">When new slots become available you'll <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">be the first</span> to know.</h2>
 					<p class="py-2 text-gray-400">This form registers your interest and puts you in a queue to be informed about availability.</p>
 					<?php echo do_shortcode('[wpforms id="153" title="false"]'); ?>
@@ -95,7 +95,7 @@
 					</span>
 
 
-					<h4 class="pb-2 font-semibold">Nearly 2 decades of classroom experience</h4>
+					<h4 class="pb-2 font-semibold">Nearly 2 decades of classroom experience - were changing</h4>
 					<p class="text-base">I have 19 years of classroom experience. I studied at the <span class="font-semibold">University of Roehampton</span> where I achieved a <span class="font-semibold">2:1 BA HONs in Education with English Specialism</span>.
 						I began my career as a <span class="font-semibold">Deputy Playleader</span> for an integrated playgroup after gaining my <span class="font-semibold">Cache Diploma in Nursery Nursing</span>. Alongside this role, I was given the opportunity to work as a <span class="font-semibold">Children's Play Services Co-ordinator</span> for Sutton Mencap. I went on to gain a <span class="font-semibold">BTEC diploma in Special Educational Needs</span>.
 					</p>
