@@ -9,8 +9,11 @@ Redhill Tutoring Custom WP theme using [TailwindCSS](https://tailwindcss.com/) a
 ## Dependencies
 
 NodeJS  
-XAMPP Server (or similar)  
-...
+
+XAMPP Server (or similar)
+
+Used with NVM Version NODE - 
+nvm use v16.20.2
 
 ## Local setup:
 
