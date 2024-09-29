@@ -39,7 +39,7 @@ function landline_number($atts)
 
 function main_email($atts)
 {
-    $main_email = "enquires@redhilltutoring.co.uk";
+    $main_email = "enquiries@redhilltutoring.co.uk";
     return $main_email;
 }
 
