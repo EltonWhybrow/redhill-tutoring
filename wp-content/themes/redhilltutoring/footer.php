@@ -15,7 +15,7 @@
                     <li><a class='footer-link' href='tel:<?php echo do_shortcode("[mobile_number]"); ?>'><?php echo do_shortcode("[mobile_number]"); ?></a>
                     </li>
                     <li>
-                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Enquir</a>
+                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Enquiry</a>
                     </li>
                     <li>
                         <a class='footer-link' href="/contact#contact-form">Contact form</a>
@@ -58,10 +58,7 @@
         </div>
 
     </div>
-    <div class="pt-10 container mx-auto text-center">
-        <div class="fb-like" data-href="https://www.facebook.com/redhill.tutoring/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
 
-    </div>
 
     <?php get_template_part('templates/partials/copyright'); ?>
     </div>

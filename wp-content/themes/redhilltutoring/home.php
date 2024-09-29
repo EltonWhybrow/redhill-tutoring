@@ -1,5 +1,7 @@
 <?php get_header(); ?>
 
+<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. Register interest today!']");
+?>
 
 <?php
 // Get the ID of the page set as the blog page
@@ -15,7 +17,7 @@ if (has_post_thumbnail($blog_page_id)) :
     <!-- Blog header -->
     <div class="py-0">
         <img class="h-full w-full object-cover" src="<?php echo esc_url($featured_img_url); ?>" alt="<?php the_title(); ?>">
-        <h2 class="text-base text-center bg-teal-500 p-2 text-white font-semibold">Design &amp; Landscaping <?php echo esc_html($blog_page_title); ?></h2>
+        <h2 class="text-base text-center bg-primary p-2 text-white font-semibold">Redhill Tutoring <?php echo esc_html($blog_page_title); ?></h2>
     </div>
 
 
@@ -30,7 +32,7 @@ if (!has_post_thumbnail($blog_page_id)) :
 ?>
     <div class="py-0 pt-44">
 
-        <h2 class="text-base text-center bg-teal-500 p-2 text-white font-semibold">Design &amp; Landscaping <?php echo esc_html($blog_page_title); ?></h2>
+        <h2 class="text-base text-center bg-primary p-2 text-white font-semibold">Redhill Tutoring <?php echo esc_html($blog_page_title); ?></h2>
     </div>
 
 

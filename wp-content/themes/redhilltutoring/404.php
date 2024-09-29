@@ -4,7 +4,7 @@
 
 <div class="sm:block md:hidden relative">
     <img class="h-full w-full object-cover" src="/resources/img/pages/404/404-mobile.jpg" alt="Sorry, page not found">
-    <!-- <h2 class="text-xl bg-teal-500 py-1 text-white px-5">Sorry, page not found</h2> -->
+    <!-- <h2 class="text-xl bg-primary py-1 text-white px-5">Sorry, page not found</h2> -->
 </div>
 
 
@@ -12,7 +12,7 @@
 
 <div class="py-0 hidden md:block">
     <img class="h-full w-full object-cover" src=/resources/img/pages/404/404.jpg" alt="Sorry, page not found">
-    <!-- <h2 class="text-sm text-center bg-teal-500 p-2 text-white">Sorry, page not found</h2> -->
+    <!-- <h2 class="text-sm text-center bg-primary p-2 text-white">Sorry, page not found</h2> -->
 </div>
 
 <!-- wysiwyg main content -->

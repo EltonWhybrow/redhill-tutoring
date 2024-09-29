@@ -6,11 +6,15 @@
 
 get_header(); ?>
 
+<!-- MESSAGE notification -->
+<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. Register interest today!']");
+?>
+
 <!-- Mobile Header -->
 <?php if (get_field('page_mobile_image')) { ?>
     <div class="sm:block md:hidden relative">
         <img class="h-full w-full object-cover" src="<?php the_field('page_mobile_image'); ?>" alt="<?php the_title(); ?>">
-        <h2 class="text-xl bg-teal-500 py-1 text-white px-5"><?php the_title(); ?></h2>
+        <h2 class="text-xl bg-primary py-1 text-white px-5"><?php the_title(); ?></h2>
     </div>
 <?php } ?>
 
@@ -23,6 +27,7 @@ get_header(); ?>
 
 <!-- wysiwyg main content -->
 <div class="wysiwyg-content bg-gray-100">
+
 
 
     <section class="w-full border-b-4 border-gray-400">
@@ -51,7 +56,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-primary font-semibold">£35.00/hr</p>
+                    <p class="text-2xl text-primary font-semibold">£45.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -72,7 +77,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">Small group session (max. 4)</h4>
                     <p class="text-base">Peer and collaborative learning one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-primary font-semibold">£25.00/hr</p>
+                    <p class="text-2xl text-primary font-semibold">£35.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -158,8 +163,11 @@ get_header(); ?>
 
                 <div class="py-0 w-full">
                     <div class="px-5">
-                        <p class="text-2xl pb-2">"I had the pleasure of working with Bethany for 8 years. She is an incredibly versatile KS1 &amp; KS2 teacher. She demonstrated excellent curriculum knowledge, clear differentiation &amp; a passion for being in the classroom. Her lessons consistently included highly engaging and exciting activities for all children."</p>
-                        <h4 class="text-xl text-right pt-4 pr-10">- TINA FROST-LUTMAN M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>
+                        <!-- <p class="text-2xl pb-2">"I had the pleasure of working with Bethany for 8 years. She is an incredibly versatile KS1 &amp; KS2 teacher. She demonstrated excellent curriculum knowledge, clear differentiation &amp; a passion for being in the classroom. Her lessons consistently included highly engaging and exciting activities for all children."</p>
+                        <h4 class="text-xl text-right pt-4 pr-10">- TINA FROST-LUTMAN M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4> -->
+
+                        <p class="text-2xl pb-2">"I had the privilege of working alongside Sarah for 8 years. She is an exceptionally skilled teacher, capable of teaching both KS1 and KS2. Her in-depth curriculum knowledge, ability to differentiate lessons, and enthusiasm for teaching were remarkable. Her classes were always filled with engaging and dynamic activities for every student."</p>
+                        <h4 class="text-xl text-right pt-4 pr-10">- JANE DOE M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>
                         <p class="text-primary text-xs text-right pr-10">
                             View more <a href="/testimonials" class="primary-link text-xs underline">feedback</a>
                         </p>

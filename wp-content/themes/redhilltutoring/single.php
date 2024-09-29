@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="bg-teal-500">
+<!-- <div class="bg-primary">
 
     <div class="lg:container lg:mx-auto py-2">
 
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <section class="container mx-auto md:py-10 pb-3 max-w-4xl">
 
