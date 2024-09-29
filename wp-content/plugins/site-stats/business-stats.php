@@ -27,19 +27,19 @@ For use in WYSIWYG Editor:
 
 function mobile_number($atts)
 {
-    $mobile_number = "07952 435 427";
+    $mobile_number = "07910 742 752";
     return $mobile_number;
 }
 
 function landline_number($atts)
 {
-    $landline_number = "01628 410 090";
+    $landline_number = "07910 742 752";
     return $landline_number;
 }
 
 function main_email($atts)
 {
-    $main_email = "bethany@redhilltutoring.co.uk";
+    $main_email = "enquires@redhilltutoring.co.uk";
     return $main_email;
 }
 
