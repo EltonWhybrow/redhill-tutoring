@@ -4,7 +4,7 @@ Customer quotes slider
 ============================= 
 -->
 <section id="slider-heros" class="mx-0">
-    <div class="flexslider relative bg-transparent border-0 h-96">
+    <div class="flexslider relative bg-transparent border-0 h-96 md:h-36rem">
         <ul class="slides">
 
             <?php

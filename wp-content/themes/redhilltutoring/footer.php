@@ -15,7 +15,7 @@
                     <li><a class='footer-link' href='tel:<?php echo do_shortcode("[mobile_number]"); ?>'><?php echo do_shortcode("[mobile_number]"); ?></a>
                     </li>
                     <li>
-                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Bethany</a>
+                        <a class='footer-link' href='mailto:<?php echo do_shortcode("[main_email]"); ?>'>Email Enquir</a>
                     </li>
                     <li>
                         <a class='footer-link' href="/contact#contact-form">Contact form</a>
@@ -28,7 +28,7 @@
                 <ul>
                     <li><a class="footer-link" href="/testimonials">Testimonials</a></li>
                     <li><a class="footer-link" href="/company-policy">Company Policies</a></li>
-                    <li><a class="footer-link" href="/session-booking">Booking Sessions</a></li>
+                    <!-- <li><a class="footer-link" href="/session-booking">Booking Sessions</a></li> -->
                     <li><a class="footer-link" href="/terms-and-conditions">Terms &amp; Conditions</a></li>
                     <li><a class="footer-link" href="/site-map">Sitemap</a></li>
                 </ul>
