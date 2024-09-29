@@ -4,8 +4,7 @@
 
 	<section class="relative hero-slider py-0">
 
-		<!-- MESSAGE notification -->
-		<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. Register interest below!']");
+		<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. <a href=\"mailto:enquiries@redhilltutoring.co.uk\" target=\"_blank\" class=\"underline\">Register interest today!</a>']");
 		?>
 
 		<!-- BUTTON Request -->
@@ -237,7 +236,7 @@
 </div>
 
 <!-- MESSAGE notification -->
-<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. Register interest today!']");
+<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. <a href=\"mailto:enquiries@redhilltutoring.co.uk\" target=\"_blank\" class=\"underline\">Register interest today!</a>']");
 ?>
 
 
