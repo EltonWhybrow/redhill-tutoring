@@ -28,7 +28,7 @@ get_header(); ?>
 
             <div class="px-5 text-base">
                 <h4 class="hidden md:block pt-6 font-semibold">Where am I?</h4>
-                <h2 class="text-2xl"><span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">Site</span> map</h2>
+                <h2 class="text-2xl"><span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2">Site</span> map</h2>
                 <p class="py-2">Quick reference to all pages contained within our site.
                 </p>
             </div>

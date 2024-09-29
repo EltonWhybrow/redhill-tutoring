@@ -37,7 +37,7 @@
 
     <div class="md:pb-12 pt-4 text-sm px-5">
 
-        <!-- <h2 class=" font-bold text-teal-500 my-3 pl-0">Latest posts</h2> -->
+        <!-- <h2 class=" font-bold text-primary my-3 pl-0">Latest posts</h2> -->
         <?php get_template_part('templates/partials/section', 'blogcontent'); ?>
 
     </div>

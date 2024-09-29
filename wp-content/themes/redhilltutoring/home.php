@@ -73,7 +73,7 @@ if (!has_post_thumbnail($blog_page_id)) :
                 <div class="bg-gray-50 hover:bg-gray-100 border rounded-lg group cursor-pointer h-full mb-10 md:mb-0">
                     <div class="py-3 px-4 h-full">
                         <h1 class="text-gray-600 text-2xl tracking-wide">
-                            <a class="group-hover:text-teal-500 cursor-pointer" href="<?php the_permalink(); ?>">
+                            <a class="group-hover:text-primary cursor-pointer" href="<?php the_permalink(); ?>">
                                 <?php the_title(); ?>
                             </a>
                         </h1>
@@ -87,7 +87,7 @@ if (!has_post_thumbnail($blog_page_id)) :
                             $result = substr($excerpt, 0, strrpos($excerpt, ' '));
                             echo "$result..";
                             // the_content();
-                            ?><a class="read-on text-teal-500" href="<?php the_permalink(); ?>"> [read more]</a>
+                            ?><a class="read-on text-primary" href="<?php the_permalink(); ?>"> [read more]</a>
                         </div>
                     </div>
 

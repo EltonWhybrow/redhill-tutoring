@@ -23,7 +23,7 @@
 
             <div class="px-5 text-base">
                 <h4 class="hidden md:block pt-6 font-semibold">You need to go back to school!</h4>
-                <h2 class="text-2xl">Sorry! <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">404</span> - page not found</h2>
+                <h2 class="text-2xl">Sorry! <span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2">404</span> - page not found</h2>
                 <p class="py-2"> This is somewhat embarrassing, isn’t it? Go back to <a class="primary-link relative text-base" href="/">homepage</a> or try again..
                 </p>
             </div>
