@@ -163,8 +163,6 @@ get_header(); ?>
 
                 <div class="py-0 w-full">
                     <div class="px-5">
-                        <!-- <p class="text-2xl pb-2">"I had the pleasure of working with Bethany for 8 years. She is an incredibly versatile KS1 &amp; KS2 teacher. She demonstrated excellent curriculum knowledge, clear differentiation &amp; a passion for being in the classroom. Her lessons consistently included highly engaging and exciting activities for all children."</p>
-                        <h4 class="text-xl text-right pt-4 pr-10">- TINA FROST-LUTMAN M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4> -->
 
                         <p class="text-2xl pb-2">"I had the privilege of working alongside Sarah for 8 years. She is an exceptionally skilled teacher, capable of teaching both KS1 and KS2. Her in-depth curriculum knowledge, ability to differentiate lessons, and enthusiasm for teaching were remarkable. Her classes were always filled with engaging and dynamic activities for every student."</p>
                         <h4 class="text-xl text-right pt-4 pr-10">- JANE DOE M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>

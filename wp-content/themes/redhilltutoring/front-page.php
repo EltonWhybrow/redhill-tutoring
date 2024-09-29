@@ -93,7 +93,7 @@
 				<picture>
 					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.webp" type="image/webp">
 					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.jpg" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-university.jpg" alt="Teaching degree at University of Roehampton">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-university.jpg" alt="Teaching degree at University">
 				</picture>
 			</div>
 
@@ -105,9 +105,7 @@
 
 
 					<h4 class="pb-2 font-semibold">Nearly 2 decades of classroom experience - were changing</h4>
-					<!-- <p class="text-base">I have 19 years of classroom experience. I studied at the <span class="font-semibold">University of Roehampton</span> where I achieved a <span class="font-semibold">2:1 BA HONs in Education with English Specialism</span>.
-						I began my career as a <span class="font-semibold">Deputy Playleader</span> for an integrated playgroup after gaining my <span class="font-semibold">Cache Diploma in Nursery Nursing</span>. Alongside this role, I was given the opportunity to work as a <span class="font-semibold">Children's Play Services Co-ordinator</span> for Sutton Mencap. I went on to gain a <span class="font-semibold">BTEC diploma in Special Educational Needs</span>.
-					</p> -->
+
 					<p class="text-base">I have nearly two decades of experience in the education field. I graduated from the <span class="font-semibold">City University</span> with a <span class="font-semibold">2:1 BA HONs in Educational Studies with a focus on Literature</span>. I began my professional journey as a <span class="font-semibold">Program Coordinator</span> for a youth development group after earning my <span class="font-semibold">Diploma in Early Childhood Education</span>. In addition to this role, I had the chance to work as a <span class="font-semibold">Youth Services Supervisor</span> for a local community organization. I later pursued a <span class="font-semibold">BTEC diploma in Inclusive Education</span>. </p>
 					<p class="py-0">
 						<a class="relative primary-link text-sm underline" href="/about">
@@ -128,7 +126,7 @@
 				<picture>
 					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.webp" type="image/webp">
 					<source srcset="/resources/img/pages/home/redhilltutoring-home-university.jpg" type="image/jpeg">
-					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-university.jpg" alt="Teaching degree at University of Roehampton">
+					<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/home/redhilltutoring-home-university.jpg" alt="Teaching degree at University">
 				</picture>
 			</div>
 		</div>
@@ -221,8 +219,7 @@
 
 				<div class="py-0 w-full">
 					<div class="px-5">
-						<!-- <p class="text-2xl pb-2">"Bethany was my son's, Year 1 primary school teacher and she started my son's journey of loving school. She made each day interesting and informative and created a passion for learning in him that has lasted. She had a wonderful, kind and caring way about her and I will be forever grateful for the compassion she always showed him. If I am to ask him who his favourite teacher was, he will say Mrs Whybrow."</p>
-						<h4 class="text-xl text-right pt-4 pr-10">- CLAIRE F <br />Coulsdon, Surrey</h4> -->
+
 
 						<p class="text-2xl pb-2">"My child had an incredible experience with their teacher, who made learning fun and engaging from the start. Each day was filled with excitement, sparking a lifelong love for learning. The teacher's kindness and thoughtful approach made a lasting impression, and we are deeply appreciative of the positive impact they had. Whenever asked about a favorite teacher, their name is always mentioned first."</p>
 						<h4 class="text-xl text-right pt-4 pr-10">- SARAH W <br />Bristol, UK</h4>

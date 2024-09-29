@@ -50,19 +50,14 @@ get_header(); ?>
 					<!-- // experience -->
 
 					<h3 class="text-gray-600 text-2xl uppercase tracking-wide">Experience</h3>
-					<!-- <p>
-						My career working with children has spanned <span class="font-semibold">over 25 years</span>. I qualified as a nursery nurse in 1997 and my first job was the role of Deputy Playleader, working with children with additional needs and their siblings within an integrated setting. Alongside this work I became a Children's Play Coordinator for Sutton Mencap's Children's Services. The love and passion for both jobs prompted me to further my studies, and in 1999, I gained a <span class="font-semibold">BTEC qualification in Special Educational Needs</span>.</p>
-					<p>
-						It became very clear from working in these settings, that teaching was what I really wanted to do. Already having such a great foundation working with children and their families, I received an upper class division, <span class="font-semibold">BA HONS in Education with English specialism</span>, at the University of Roehampton, in 2004.
 
-					</p> -->
 					<p> I have been working with children for <span class="font-semibold">more than 20 years</span>. I earned my first qualification as an early childhood educator in 1998, and my initial role was as an Assistant Program Leader, supporting children with diverse needs in a blended environment. At the same time, I worked as a Children's Activity Coordinator for a local nonprofit’s youth services. My passion for these roles inspired me to continue my education, and in 2001, I completed a <span class="font-semibold">Diploma in Special Education</span>. </p>
 					<p> Through these experiences, I discovered my true calling in teaching. With a strong background in child development and family support, I earned an upper division <span class="font-semibold">BA in Education with a focus on literacy</span> from City University in 2005. </p>
 					<div class="brand-swoosh object-cover w-full md:w-96 md:float-right my-5 md:m-5">
 						<picture>
 							<source srcset="/resources/img/pages/about/redhilltutoring-about-me.webp" type="image/webp">
 							<source srcset="/resources/img/pages/about/redhilltutoring-about-me.jpg" type="image/jpeg">
-							<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/about/redhilltutoring-about-me.jpg" alt="Bethany welcomes you to Redhill Tutoring">
+							<img class="w-full max-h-80 object-cover object-center rounded-lg shadow-md" src="/resources/img/pages/about/redhilltutoring-about-me.jpg" alt="Welcoming you to Redhill Tutoring">
 						</picture>
 					</div>
 					<!-- <p>
