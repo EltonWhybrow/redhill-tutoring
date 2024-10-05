@@ -6,11 +6,15 @@
 
 get_header(); ?>
 
+<!-- MESSAGE notification -->
+<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. <a href=\"mailto:enquiries@redhilltutoring.co.uk\" target=\"_blank\" class=\"underline\">Register interest today!</a>']");
+?>
+
 <!-- Mobile Header -->
 <?php if (get_field('page_mobile_image')) { ?>
     <div class="sm:block md:hidden relative">
         <img class="h-full w-full object-cover" src="<?php the_field('page_mobile_image'); ?>" alt="<?php the_title(); ?>">
-        <h2 class="text-xl bg-teal-500 py-1 text-white px-5"><?php the_title(); ?></h2>
+        <h2 class="text-xl bg-primary py-1 text-white px-5"><?php the_title(); ?></h2>
     </div>
 <?php } ?>
 
@@ -25,12 +29,13 @@ get_header(); ?>
 <div class="wysiwyg-content bg-gray-100">
 
 
+
     <section class="w-full border-b-4 border-gray-400">
         <div class="flex max-w-5xl mx-auto pt-5 md:pt-10 pb-12 space-x-5">
 
             <div class="px-5 text-base">
                 <h4 class="hidden md:block pt-6 font-semibold">Tuition fees</h4>
-                <h2 class="text-2xl">A breakdown of fee structure and <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">offers</span> available</h2>
+                <h2 class="text-2xl">A breakdown of fee structure and <span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2">offers</span> available</h2>
                 <p class="py-2">Please see below for fee structure. If you have any queries feel free to <a class="primary-link relative text-base" href="/contact#contact-form">contact me</a>.
                 </p>
             </div>
@@ -51,7 +56,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£35.00/hr</p>
+                    <p class="text-2xl text-primary font-semibold">£45.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -72,7 +77,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">Small group session (max. 4)</h4>
                     <p class="text-base">Peer and collaborative learning one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£25.00/hr</p>
+                    <p class="text-2xl text-primary font-semibold">£35.00/hr</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -97,7 +102,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">1:1 session bundle (10 lessons)</h4>
                     <p class="text-base">Entirely personalised one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£255.00 <span class="text-sm">(Saturday £297.50/hr)</span></p>
+                    <p class="text-2xl text-primary font-semibold">£255.00 <span class="text-sm">(Saturday £297.50/hr)</span></p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -122,7 +127,7 @@ get_header(); ?>
 
                     <h4 class="pb-2 font-semibold">Small group session bundle (10 lessons)</h4>
                     <p class="text-base">Peer and collaborative learning one hour long sessions, in the area of Maths or English</p>
-                    <p class="text-2xl text-teal-500 font-semibold">£170.00</p>
+                    <p class="text-2xl text-primary font-semibold">£170.00</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link md:text-sm text-md underline" href="/session-booking/#booking-form">
                             Booking request
@@ -145,22 +150,23 @@ get_header(); ?>
         <div class="max-w-5xl mx-auto py-28">
 
             <div class="px-5 text-center">
-                <h2 class="text-2xl">Fantastic <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2 ">Testimonials</span></h2>
+                <h2 class="text-2xl">Fantastic <span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2 ">Testimonials</span></h2>
                 <p class="text-lg text-gray-500">Feedback from students, parents and colleagues</p>
             </div>
 
             <div class="mx-8 flex flex-wrap md:flex-nowrap pt-5 md:pt-10 space-x-5 space-y-5 md:space-y-0">
                 <div class="py-0">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-36 w-36 text-teal-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-36 w-36 text-primary">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
                     </svg>
                 </div>
 
                 <div class="py-0 w-full">
                     <div class="px-5">
-                        <p class="text-2xl pb-2">"I had the pleasure of working with Bethany for 8 years. She is an incredibly versatile KS1 &amp; KS2 teacher. She demonstrated excellent curriculum knowledge, clear differentiation &amp; a passion for being in the classroom. Her lessons consistently included highly engaging and exciting activities for all children."</p>
-                        <h4 class="text-xl text-right pt-4 pr-10">- TINA FROST-LUTMAN M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>
-                        <p class="text-teal-500 text-xs text-right pr-10">
+
+                        <p class="text-2xl pb-2">"I had the privilege of working alongside Sarah for 8 years. She is an exceptionally skilled teacher, capable of teaching both KS1 and KS2. Her in-depth curriculum knowledge, ability to differentiate lessons, and enthusiasm for teaching were remarkable. Her classes were always filled with engaging and dynamic activities for every student."</p>
+                        <h4 class="text-xl text-right pt-4 pr-10">- JANE DOE M.A, B.Ed (Hons) <br />OFSTED Inspector, Head Teacher</h4>
+                        <p class="text-primary text-xs text-right pr-10">
                             View more <a href="/testimonials" class="primary-link text-xs underline">feedback</a>
                         </p>
                     </div>

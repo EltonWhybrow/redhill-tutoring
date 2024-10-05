@@ -40,9 +40,11 @@ module.exports = {
         'width': 'width'
       },
       height: {
+        '36rem': '36rem',
         '100': '48rem'
       },
       colors: {
+        'primary': '#39a01e',
         'info': {
           DEFAULT: '#BDE5F8',
           '50': '#FFFFFF',

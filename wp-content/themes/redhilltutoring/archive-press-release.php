@@ -52,7 +52,7 @@
                                     ?>
                                 </p>
                                 <p class="p-2 sm:px-0 text-xs">
-                                    <span class="mt-2 text-xs font-thin uppercase text-teal-500"><?php the_date('F j, Y'); ?></span>
+                                    <span class="mt-2 text-xs font-thin uppercase text-primary"><?php the_date('F j, Y'); ?></span>
                                 </p>
                                 <span class="text-blue-500 right-0 bottom-0 pb-1 pr-2 absolute">
                                     <a href="<?php the_permalink() ?>">

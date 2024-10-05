@@ -14,10 +14,10 @@
 	}
 
 	.primary-btn {
-		@apply inline-block items-center px-3 py-2 text-base leading-none text-gray-100 bg-teal-500 rounded-md border-transparent #{!important};
+		@apply inline-block items-center px-3 py-2 text-base leading-none text-gray-100 bg-primary rounded-md border-transparent #{!important};
 
 		&:hover {
-			@apply bg-teal-600 border-transparent #{!important};
+			@apply bg-primary opacity-80 border-transparent #{!important};
 		}
 
 		@screen md {
@@ -34,10 +34,10 @@
 .bl-form-contact,
 .bl-form-session-booking {
 	.primary-btn {
-		@apply inline-block items-center px-3 py-2 text-base leading-none text-gray-100 bg-teal-500 rounded-md border-transparent #{!important};
+		@apply inline-block items-center px-3 py-2 text-base leading-none text-gray-100 bg-primary rounded-md border-transparent #{!important};
 
 		&:hover {
-			@apply bg-teal-600 border-transparent #{!important};
+			@apply bg-primary border-transparent #{!important};
 		}
 	}
 

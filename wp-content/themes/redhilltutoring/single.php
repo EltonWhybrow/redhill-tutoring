@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="bg-teal-500">
+<!-- <div class="bg-primary">
 
     <div class="lg:container lg:mx-auto py-2">
 
@@ -31,13 +31,13 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <section class="container mx-auto md:py-10 pb-3 max-w-4xl">
 
     <div class="md:pb-12 pt-4 text-sm px-5">
 
-        <!-- <h2 class=" font-bold text-teal-500 my-3 pl-0">Latest posts</h2> -->
+        <!-- <h2 class=" font-bold text-primary my-3 pl-0">Latest posts</h2> -->
         <?php get_template_part('templates/partials/section', 'blogcontent'); ?>
 
     </div>

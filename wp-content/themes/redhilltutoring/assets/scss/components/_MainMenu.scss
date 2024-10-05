@@ -20,6 +20,7 @@ Main desktop Navigaton Menu:
 		list-style: none;
 		transition: background-color 0.2s ease;
 		position: relative;
+		font-weight: 700;
 
 		&:hover,
 		&:active {
@@ -75,7 +76,7 @@ Main desktop Navigaton Menu:
 li {
 	&.current-menu-item {
 		> a {
-			@apply text-teal-500 border-b-2 border-teal-500;
+			@apply text-primary border-b-2 border-primary;
 		}
 	}
 }

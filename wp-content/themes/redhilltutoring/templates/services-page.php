@@ -7,11 +7,15 @@
 
 get_header(); ?>
 
+
+<?php echo do_shortcode("[get-message color='info' message='This site and domain name are currently for sale as a functioning Tutoring site. <a href=\"mailto:enquiries@redhilltutoring.co.uk\" target=\"_blank\" class=\"underline\">Register interest today!</a>']");
+?>
+
 <!-- Mobile Header -->
 <?php if (get_field('page_mobile_image')) { ?>
     <div class="sm:block md:hidden relative">
         <img class="h-full w-full object-cover" src="<?php the_field('page_mobile_image'); ?>" alt="<?php the_title(); ?>">
-        <h2 class="text-xl bg-teal-500 py-1 text-white px-5"><?php the_title(); ?></h2>
+        <h2 class="text-xl bg-primary py-1 text-white px-5"><?php the_title(); ?></h2>
     </div>
 <?php } ?>
 
@@ -19,19 +23,21 @@ get_header(); ?>
 <?php if (has_post_thumbnail()) : ?>
     <div class="py-0 hidden md:block">
         <img class="h-full w-full object-cover" src="<?php the_post_thumbnail_url('page-hero-banner'); ?>" alt="<?php the_title(); ?>">
-        <!-- <h2 class="text-sm text-center bg-teal-500 p-2 text-white"><?php the_title(); ?></h2> -->
+        <!-- <h2 class="text-sm text-center bg-primary p-2 text-white"><?php the_title(); ?></h2> -->
     </div>
 <?php endif; ?>
 
 <!-- wysiwyg main content -->
 <div class="wysiwyg-content bg-gray-100">
+    <!-- MESSAGE notification -->
+
 
     <section class="w-full bg-gray-100 border-b-4 border-gray-400">
         <div class="flex max-w-5xl mx-auto pt-5 md:pt-10 pb-12 space-x-5">
 
             <div class="px-5 text-base">
                 <h4 class="hidden md:block pt-6 font-semibold">Services</h4>
-                <h2 class="text-2xl">Treat each child as an <span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">individual</span> and watch them thrive</h2>
+                <h2 class="text-2xl">Treat each child as an <span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2">individual</span> and watch them thrive</h2>
                 <p class="py-2">Thank you for heading over to my website. Here you will find all you need to know about Redhill Tutoring Services. Contact me if you would like to <a class="primary-link relative text-base" href="/contact#contact-form">arrange a visit</a>.
                 </p>
             </div>
@@ -43,7 +49,7 @@ get_header(); ?>
         <div class="md:max-w-3xl mx-auto pt-8 pb-4 px-5">
 
             <div class="text-left">
-                <h3 class="text-gray-600 text-2xl uppercase tracking-wide">What we offer at <span class="text-teal-500">Redhill Tutoring</span></h3>
+                <h3 class="text-gray-600 text-2xl uppercase tracking-wide">What we offer at <span class="text-primary">Redhill Tutoring</span></h3>
                 <p>Redhill Tutoring can help your child in any of the following areas of study:</p>
             </div>
 
@@ -150,9 +156,16 @@ get_header(); ?>
                     <span class="text-2xl pr-2 tracking-wide">
                         English
                     </span>
+                    <h4 class="pb-2 font-semibold">Primary Level</h4>
+                    <p class="text-base">Tutoring in English has gained popularity since the implementation of key assessments focusing on grammar, punctuation, and spelling. Through a tailored learning approach, I aim to enhance students' understanding, knowledge, and self-assurance in English. Both one-on-one sessions and small group classes are available to suit different learning needs.</p>
 
-                    <h4 class="pb-2 font-semibold">Key Stage 2</h4>
-                    <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I aspire able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p>
+
+
+
+
+
+                    <!-- <h4 class="pb-2 font-semibold">Key Stage 2</h4>
+                    <p class="text-base">English tutition has become increasingly popular since the introduction of the English, punctution and spelling test (SPAG) introduced in May 2013. By offering a personalised approach to learning, I aspire able to broaden children's knowledge, understanding and confidence in English. I offer 1:1 sessions as well as small group sessions.</p> -->
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch
@@ -191,8 +204,11 @@ get_header(); ?>
                         Maths
                     </span>
 
-                    <h4 class="pb-2 font-semibold">Key Stage 2</h4>
-                    <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer a customised maths curriculum to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p>
+                    <!-- <h4 class="pb-2 font-semibold">Key Stage 2</h4>
+                    <p class="text-base">Using a baseline assessment to highlight areas of strengths and weaknesses, I offer a customised maths curriculum to help close gaps in their learning and help children be more confident in the classroom. Again, offering 1:1 sessions as well as small group sessions.</p> -->
+
+                    <h4 class="pb-2 font-semibold">Primary Math Support</h4>
+                    <p class="text-base">With an initial assessment to identify strengths and areas for improvement, I provide a tailored math curriculum to address learning gaps and boost children's confidence in the classroom. Both one-on-one and small group sessions are available to meet individual learning needs.</p>
                     <p class="py-0 flex justify-between">
                         <a class="relative primary-link text-md md:text-sm underline" href="/contact/#contact-form">
                             Get in touch

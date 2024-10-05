@@ -10,6 +10,7 @@
 	text-decoration: none;
 	transition: opacity 0.2s ease-out;
 	background-image: url($img-path+"/pages/icons/back-to-top.svg");
+	background-repeat: no-repeat;
 }
 
 .back-to-top:hover {

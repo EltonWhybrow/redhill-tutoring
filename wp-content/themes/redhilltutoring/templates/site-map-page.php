@@ -10,7 +10,7 @@ get_header(); ?>
 <?php if (get_field('page_mobile_image')) { ?>
     <div class="sm:block md:hidden relative">
         <img class="h-full w-full object-cover" src="<?php the_field('page_mobile_image'); ?>" alt="<?php the_title(); ?>">
-        <h2 class="text-xl bg-teal-500 py-1 text-white px-5"><?php the_title(); ?></h2>
+        <h2 class="text-xl bg-primary py-1 text-white px-5"><?php the_title(); ?></h2>
     </div>
 <?php } ?>
 
@@ -18,7 +18,7 @@ get_header(); ?>
 <?php if (has_post_thumbnail()) : ?>
     <div class="py-0 hidden md:block">
         <img class="h-full w-full object-cover" src="<?php the_post_thumbnail_url('page-hero-banner'); ?>" alt="<?php the_title(); ?>">
-        <!-- <h2 class="text-sm text-center bg-teal-500 p-2 text-white"><?php the_title(); ?></h2> -->
+        <!-- <h2 class="text-sm text-center bg-primary p-2 text-white"><?php the_title(); ?></h2> -->
     </div>
 <?php endif; ?>
 
@@ -28,7 +28,7 @@ get_header(); ?>
 
             <div class="px-5 text-base">
                 <h4 class="hidden md:block pt-6 font-semibold">Where am I?</h4>
-                <h2 class="text-2xl"><span class="px-1 border-b-2 border-teal-500 transform inline-block -skew-y-2">Site</span> map</h2>
+                <h2 class="text-2xl"><span class="px-1 border-b-2 border-primary transform inline-block -skew-y-2">Site</span> map</h2>
                 <p class="py-2">Quick reference to all pages contained within our site.
                 </p>
             </div>

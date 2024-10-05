@@ -1,9 +1,9 @@
 //buttons
 .primary-btn {
-	@apply items-center px-5 shadow-sm py-4 leading-none text-base text-gray-100 rounded-md  bg-teal-500 transition duration-500 ease-in-out;
+	@apply items-center px-5 shadow-sm py-4 leading-none text-base text-gray-100 rounded-md  bg-primary transition duration-500 ease-in-out;
 
 	&:hover {
-		@apply bg-teal-600 shadow-xl;
+		@apply bg-primary opacity-80 shadow-xl;
 	}
 }
 
@@ -11,7 +11,7 @@
 	@apply items-center px-3 py-2 text-sm leading-none text-white bg-transparent;
 
 	&:hover {
-		@apply bg-teal-600;
+		@apply bg-primary opacity-80;
 	}
 }
 
@@ -25,10 +25,10 @@
 
 //links
 .primary-link {
-	@apply items-center text-base leading-none text-teal-500;
+	@apply items-center text-base leading-none text-primary;
 
 	&:hover {
-		@apply text-teal-600 underline;
+		@apply text-primary opacity-80 underline;
 	}
 }
 
@@ -36,14 +36,14 @@
 	@apply items-center text-base leading-none text-gray-700;
 
 	&:hover {
-		@apply text-teal-500;
+		@apply text-primary;
 	}
 }
 
 .footer-link {
-	@apply items-center text-base leading-none text-teal-500;
+	@apply items-center text-base leading-none text-primary;
 
 	&:hover {
-		@apply text-teal-600;
+		@apply text-primary opacity-80;
 	}
 }
