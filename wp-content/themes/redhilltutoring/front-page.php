@@ -8,7 +8,7 @@
 		?>
 
 		<!-- BUTTON Request -->
-		<div class="w-1/2 flex flex-col absolute left-1/2 top-1/3 z-50 transform -translate-x-1/2">
+		<div class="w-full md:w-1/2 flex flex-col absolute left-1/2 top-1/3 z-50 transform -translate-x-1/2">
 
 			<div class="flex items-center justify-center mb-3">
 				<div class="inline-flex">
